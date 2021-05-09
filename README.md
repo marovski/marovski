@@ -7,6 +7,7 @@ I'm Mário 😄 a Information Systems Engineer, living in Praia - 🇨🇻 [Cabo
 ## &#x1f4c8; GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marovski&show_icons=true&theme=tokyonight&hide=prs,contribs)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marovski&&layout=compact&hide=tex&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
 ## 🔧 Technologies & Tools
@@ -28,26 +29,14 @@ I'm Mário 😄 a Information Systems Engineer, living in Praia - 🇨🇻 [Cabo
 <a href="https://github.com/marovski/covid19cvdata">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marovski&repo=covid19cvdata&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<br>
 <a href="https://github.com/marovski/autarquicas2020CV">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marovski&repo=autarquicas2020CV&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<!--
-**marovski/marovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+## Social Media
 <!-- SOcial media -->
 
 You can find me on [Twitter][1] & on [LinkedIn][2].
@@ -59,4 +48,5 @@ You can find me on [Twitter][1] & on [LinkedIn][2].
 [1]: https://twitter.com/mcardozo_10_
 [2]: https://www.linkedin.com/in/m%C3%A1rio-cardoso-84481772/
 
+<br>
 <h1 align='center'><i>Thank You For Passing By ;)!</i></h1>
