@@ -1,4 +1,4 @@
-[![Banner](https://github.com/jh3y/jh3y/raw/master/assets/header-banner_mc-01.svg)](http://marovski.github.io/)
+[![Banner](https://github.com/marovski/marovski/blob/main/header-banner_mc-01.svg)](http://marovski.github.io/)
 
 ### Hi there 👋
 
