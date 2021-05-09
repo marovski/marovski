@@ -6,8 +6,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marovski&show_icons=true&theme=tokyonight&hide=prs,contribs) <br> <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marovski&&layout=compact&hide=tex) <br> <br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marovski&show_icons=true&theme=tokyonight&hide=prs,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marovski&&layout=compact&hide=tex)
 
 ## 🔧 Technologies & Tools
 
