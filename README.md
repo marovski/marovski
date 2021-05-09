@@ -1,8 +1,8 @@
+[![Banner](https://github.com/jh3y/jh3y/raw/master/assets/header-banner_mc-01.svg)](http://marovski.github.io/)
+
 ### Hi there 👋
 
-## I'm Mário ![Mario](https://cdn.emojidex.com/emoji/seal/Mario.png "Mario")
-
-<img src="https://github.com/marovski/marovski/master/header-banner_mc-01.svg" width="30px">
+## I'm Mário
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marovski&show_icons=true&theme=dracula&hide=prs,contribs) <br> <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marovski&&layout=compact&hide=tex) <br> <br>
