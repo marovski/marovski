@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Actual text -->
+<!-- SOcial media -->
 
-You can find me on [![Twitter]][1] & on [![LinkedIn]][2].
+You can find me on [Twitter][1] & on [LinkedIn][2].
 
 
 
