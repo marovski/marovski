@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<img src="https://marovski.github.io/img/logo.png" width="30px">
+<img src="https://github.com/marovski/marovski/raw/master/header-banner_mc-01.svg" width="30px">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marovski&show_icons=true&theme=dracula&hide=prs,contribs) <br> <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marovski&&layout=compact&hide=tex) <br> <br>
+
 
 <!--
 **marovski/marovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
