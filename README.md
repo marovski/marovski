@@ -1,9 +1,8 @@
 [![Banner](https://github.com/marovski/marovski/blob/main/header-banner_mc-01.svg)](http://marovski.github.io/)
 
-### Hi there 👋
+## HELLO WORLD 👋
 
-## I'm Mário 😄 
-I'm a Information Systems Engineer, living in Praia - 🇨🇻 [Cabo Verde](http://maravilhasdecaboverde.cv/).
+I'm Mário 😄 a Information Systems Engineer, living in Praia - 🇨🇻 [Cabo Verde](http://maravilhasdecaboverde.cv/).
 
 ## &#x1f4c8; GitHub Stats
 
