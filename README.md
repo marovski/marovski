@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 ## I'm Mário 😄 
+I'm a Information Systems Engineer, living in Praia - 🇨🇻 [Cabo Verde](http://maravilhasdecaboverde.cv/).
 
 ## &#x1f4c8; GitHub Stats
 
@@ -12,10 +13,12 @@
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/BItools-PowerBI-yellow)
+
 ![](https://img.shields.io/badge/Code-PHP-blue)
 
 ![](https://img.shields.io/badge/Code-R%20Programming-green)
+
+![](https://img.shields.io/badge/BItools-PowerBI-yellow)
 
 
 
