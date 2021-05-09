@@ -23,13 +23,13 @@ I'm Mário 😄 a Information Systems Engineer, living in Praia - 🇨🇻 [Cabo
 ## Some Repo's
 
 <a href="https://github.com/marovski/covid19cvdashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marovski&repo=covid19cvdashboard" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marovski&repo=covid19cvdashboard&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/marovski/covid19cvdata">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marovski&repo=covid19cvdata" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marovski&repo=covid19cvdata&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/marovski/autarquicas2020CV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marovski&repo=autarquicas2020CV" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marovski&repo=autarquicas2020CV&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
