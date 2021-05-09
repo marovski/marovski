@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1] & on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1] & on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png (twitter icon without padding)
-[2.2]: https://www.nicepng.com/png/full/375-3755097_join-the-conversation-linkedin-logo-white-png-transparent.png (LinkedIn icon without padding)
+[1.2]: <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png " alt="drawing" width="50"/>
+[2.2]: <img src="https://www.nicepng.com/png/full/375-3755097_join-the-conversation-linkedin-logo-white-png-transparent.png " alt="drawing" width="50"/>
 
 <!-- Links to your social media accounts -->
 
