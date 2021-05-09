@@ -20,8 +20,17 @@ I'm Mário 😄 a Information Systems Engineer, living in Praia - 🇨🇻 [Cabo
 ![](https://img.shields.io/badge/BItools-PowerBI-yellow)
 
 
+## Some Repo's
 
-
+<a href="https://github.com/marovski/covid19cvdashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marovski&repo=covid19cvdashboard" />
+</a>
+<a href="https://github.com/marovski/covid19cvdata">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marovski&repo=covid19cvdata" />
+</a>
+<a href="https://github.com/marovski/autarquicas2020CV">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marovski&repo=autarquicas2020CV" />
+</a>
 
 
 <!--
